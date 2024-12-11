@@ -1,1 +1,6 @@
+__pycache__
+checkpoints/
+data/
+
+*.log
 *.egg-info
